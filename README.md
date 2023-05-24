@@ -1,3 +1,3 @@
 # DataStructure---Practice
-Practicing DS in JavaScript
-Implementing various DS in JavaScript 
+Implementing and practicing various Data Structures in JavaScript
+ 
